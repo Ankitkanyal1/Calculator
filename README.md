@@ -1,2 +1,1 @@
-# Calculator
-Using Html, Css, JavaScript
+https://ankitkanyal1.github.io/Calculator/
