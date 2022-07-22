@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+*{
+  margin-top: 20px;
+  background:url('https://images7.alphacoders.com/737/737400.jpg'); 
+}
+.calculator{
+  margin-top: 2rem;
+  padding: 10px;
+  border-radius: 1rem;
+  height: 590px;
+  width: 600px;
+  margin: auto;
+  background-color: #191b28;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.display-box{
+  font-family: 'Orbitron',sans-serif;
+  background-color: white;
+  font-size: 20px;
+  text-align:right;
+  border: solid black 0.5px;
+  color: rgb(0, 0, 0);
+  background: url('https://c4.wallpaperflare.com/wallpaper/142/751/831/landscape-anime-digital-art-fantasy-art-wallpaper-preview.jpg')no-repeat center;
+  border-radius: 5px;
+  width: 95%;
+  height: 100%;
+}
+#btn {
+  background-color: #f90c6f;
+  background: url('https://wallpaperaccess.com/full/215912.jpg')no-repeat center center/cover;
+}
+input[type=button]{
+  font-family: 'Orbitron',sans-serif;
+  background-color: rgb(22, 143, 243);
+  font-size: 26px;
+  color: rgb(255, 0, 0);
+  background: transparent;
+  border: solid black 0.5px;
+  width: 90%;
+  border-radius: 5px;
+  height: 50%;
+  outline: none;
+}
+input:active[type=button]{
+  background: #e5e5e5;
+  -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+  -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+  
+}
