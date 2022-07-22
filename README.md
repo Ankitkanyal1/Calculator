@@ -1,3 +1,2 @@
 
-
-working site - https://itachi-ucchiha.github.io/Calculator/
+https://ankitkanyal1.github.io/Calculator/
